@@ -1,0 +1,12 @@
+[run]
+source =
+    backend
+omit =
+    backend/test_*.py
+    backend/uploads/*
+
+[report]
+omit =
+    backend/test_*.py
+    backend/uploads/*
+show_missing = True

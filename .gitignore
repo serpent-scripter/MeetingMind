@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+uploads
+venv_arm
+
+*.m4a
+*.webm

@@ -8,3 +8,6 @@ venv_arm
 
 *.m4a
 *.webm
+# Ignore documentation files
+Backend-dev-plan.md
+Ollama-Setup-Guide.md
